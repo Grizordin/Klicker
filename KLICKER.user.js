@@ -4,6 +4,8 @@
 // @version      8.0
 // @match        https://animesss.tv/*
 // @match        https://animesss.com/*
+// @downloadURL  https://raw.githubusercontent.com/Grizordin/Klicker/main/KLICKER.user.js
+// @updateURL    https://raw.githubusercontent.com/Grizordin/Klicker/main/KLICKER.user.js
 // @grant        none
 // ==/UserScript==
 
