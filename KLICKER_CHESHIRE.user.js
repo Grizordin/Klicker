@@ -4,6 +4,8 @@
 // @version      8.0
 // @match        https://animesss.tv/*
 // @match        https://animesss.com/*
+// @downloadURL  https://raw.githubusercontent.com/Grizordin/Klicker/main/KLICKER_CHESHIRE.user.js
+// @updateURL    https://raw.githubusercontent.com/Grizordin/Klicker/main/KLICKER_CHESHIRE.user.js
 // @grant        none
 // ==/UserScript==
 
