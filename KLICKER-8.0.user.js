@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         KLICKER
+// @name         КЛИКЕР
 // @namespace    http://tampermonkey.net/
 // @version      8.0
 // @match        https://animesss.tv/*
