@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         КЛИКЕР
 // @namespace    http://tampermonkey.net/
-// @version      8.51
+// @version      8.52
 // @match        https://animesss.tv/*
 // @match        https://animesss.com/*
 // @grant        GM_getValue
